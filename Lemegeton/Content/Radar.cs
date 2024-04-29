@@ -284,7 +284,7 @@ namespace Lemegeton.Content
                         }
                         draw.AddCircleFilled(
                             new Vector2(temp.X, temp.Y),
-                            10.0f,
+                            1.0f,
                             ImGui.GetColorU32(ObjectColor),
                             20
                         );
